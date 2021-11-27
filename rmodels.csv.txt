@@ -1,0 +1,11 @@
+head,family,name
+sklearn,linear_model,LinearRegression
+sklearn,linear_model,Lasso
+sklearn,linear_model,LassoCV
+sklearn,linear_model,LassoLars
+sklearn,linear_model,LassoLarsCV
+sklearn,linear_model,LassoLarsIC
+sklearn,neighbors,KNeighborsRegressor
+sklearn,tree,DecisionTreeRegressor
+sklearn,ensemble,AdaBoostRegressor
+sklearn,ensemble,GradientBoostingRegressor
